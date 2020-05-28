@@ -13,3 +13,6 @@ Actively seeking Data Analyst/Statistician full time opportunities starting 2021
 <a href = "https://hankunshi.github.io/Hannahs_data_world/"> GitHub Page </a>
 
 <h2> Projects </h2>
+
+<h2> Courseworks </h2>
+<a href="https://github.com/HankunShi/STAT5205"> Linear Regression Models </a>
