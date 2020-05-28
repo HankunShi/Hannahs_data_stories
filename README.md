@@ -2,7 +2,8 @@
   <h1> Hannah's data & analytics </h1>
 </center>
 
-<h2> About Hankun Shi </h2>
+<h2> About me </h2>
+Hi! My name is Hankun Shi and you can call me Hannah. 
 
 I am a Masters in Statistics student at Columbia🦁 expected to graduate in December 2020. My major was Math and Applied math in college, with a year spent at UC San Diego🔱 as an exchange student. I am excited about telling stories behind data using analytical techniques.
 
