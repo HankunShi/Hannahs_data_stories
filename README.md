@@ -9,6 +9,7 @@ I am a Masters in Statistics student at Columbia🦁 expected to graduate in Dec
 
 <h2> Career </h2>
 Actively seeking Data Analyst/Statistician full time opportunities starting 2021 January. Hire me if my projects impressed you :)
+Email: hs3142@columbia.edu
 
 <a href = "https://hankunshi.github.io/Hannahs_data_world/"> GitHub Page </a>
 
