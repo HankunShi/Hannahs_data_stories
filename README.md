@@ -3,7 +3,7 @@
 </center>
 
 <h2> About me </h2>
-Hi! My name is Hankun Shi and you can call me Hannah. 
+Hi! My name is Hankun Shi and you can call me Hannah. <br>
 
 I am a Masters in Statistics student at Columbia🦁 expected to graduate in December 2020. My major was Math and Applied math in college, with a year spent at UC San Diego🔱 as an exchange student. Across diverse topics, my projects share a common goal -- tell stories behind data using analytical techniques.
 
