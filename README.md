@@ -18,6 +18,7 @@ Actively seeking Data Analyst/Statistician full time opportunities starting 2021
 
 <h2> Projects </h2>
 Quantifying Social Distancing
+https://github.com/TZstatsADS/Fall2020-Project2-group4
 <a href=https://ruiiii2886.shinyapps.io/social_distance/> Here </a> is the Shiny App.
 
 <h2> Courseworks </h2>
