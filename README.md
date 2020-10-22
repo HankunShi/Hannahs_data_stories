@@ -17,8 +17,9 @@ Actively seeking Data Analyst/Statistician full time opportunities starting 2021
 <a href = "https://hankunshi.github.io/Hannahs_data_stories/"> GitHub Page </a>
 
 <h2> Projects </h2>
-Quantifying Social Distancing
+<p> Quantifying Social Distancing </p>
 https://github.com/TZstatsADS/Fall2020-Project2-group4
+
 <a href=https://ruiiii2886.shinyapps.io/social_distance/> Here </a> is the Shiny App.
 
 <h2> Courseworks </h2>
