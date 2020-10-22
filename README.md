@@ -7,12 +7,12 @@
 <p> I am a Masters in Statistics student at Columbia🦁 expected to graduate in December 2020. My major was Math and Applied math in college, with a year spent at UC San Diego🔱 as an exchange student. Across diverse topics, my projects share a common goal -- tell stories behind data using analytical techniques.</p> 
 
 <h3> Career </h3>
-Actively seeking Data Analyst/Statistician full time opportunities starting 2021 January. Hire me <hs3142@columbia.edu> if my projects impressed you :)
+Actively seeking Data Analyst/Statistician full time opportunities starting 2021 January. Contact me <hs3142@columbia.edu> if my projects impressed you :)
 
 <h3> Skill sets </h3> 
-<p> Programming: R, Python, SQL (proficient); Matlab (basic)</p>
+<p> Programming: scripting languages: R, Python; databases: SQL, NoSQL </p>
 <p> Analytics: Linear/Logistic regression, A/B testing, Time series, Machine learning</p> 
-<p> Tools: Tableau, Excel, MS Office, Adobe Photoshop, Latex</p> 
+<p> Tools: Tableau; Excel, Microsoft Office Suite; Adobe Photoshop; Latex</p> 
 
 <a href = "https://hankunshi.github.io/Hannahs_data_stories/"> GitHub Page </a>
 
