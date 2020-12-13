@@ -19,6 +19,13 @@ Actively seeking Data Analyst/Statistician full time opportunities starting 2021
 <h2> Projects </h2>
 <p><a href="https://github.com/TZstatsADS/Fall2020-Project2-group4"> Quantifying Social Distancing </a>  </p>
 
+Social Distancing is an important factor in the fight against the COVID19 Pandemic. Nevertheless, to date, there has been very little research on how to quantify and measure social distancing.
+
+It is indeed a difficult task. People move around and it is virtually impossible to keep track on their interactions and physical distance from others.
+Accurately measuring social distancing would allow society to predict cases and inform decision makers by providing real-time data. This crucial step would enable to take highly targeted preemptive measures, rather than wide lock-downs.
+
+In this project we explore ways in which society can measure social distancing by using control variables: Park Gatherings, collected by NYC Department of Parks & Recreation, and Transportation data, collected by Apple.
+
 <a href="https://ruiiii2886.shinyapps.io/social_distance"> Here </a> is the Shiny App.
 
 <h2> Courseworks </h2>
